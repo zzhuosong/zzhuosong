@@ -1,5 +1,6 @@
-<h1 align="center">Hey there! I'm Song zhuo 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h1 align="center">Hey there! I'm Song Zhuo 👋 </h1>
+<h3 align="center">A data engineer passionate about Data Science.📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. </h3>
+<h3 align="center">📜 open source | ☁️ Cloud computing | DevOps |🆕 Innovation and Automation 🤖 |Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 <div align="left"> 
@@ -21,3 +22,7 @@
 </div> 
 
 ⭐️ From [zhuosong](https://github.com/zzhuosong)
+
+
+
+
