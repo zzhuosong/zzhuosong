@@ -1,16 +1,15 @@
 <h1 align="center">Hey there! I'm Song Zhuo 👋 </h1>
-<h3 align="center">A data engineer passionate about Data Science.📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. </h3>
-<h3 align="center">📜 open source | ☁️ Cloud computing | DevOps |🆕 Innovation and Automation 🤖 |Competitive Programmer  🚀</h3>
+<h3 align="center">open source📜 | ☁️ Cloud computing ☁️ |  DevOps 🆕 | Innovation and Automation 🤖 |Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - ⚡ <b>Fun fact:</b> &nbsp; I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+  - 🤔 &nbsp; A data engineer passionate about Data Science.📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - 💡 &nbsp; I'm interested in all things data: <b>Big Data, Cloud, Machine Learning and Data Science</b>
 </div> 
 </div>
 
