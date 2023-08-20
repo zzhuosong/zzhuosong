@@ -4,13 +4,13 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
+  
   - ⚡ <b>Fun fact:</b> &nbsp; I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
   - 🤔 &nbsp; A data engineer passionate about Data Science.📊. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
-  - 💡 &nbsp; I'm interested in all things data: <b>Big Data, Cloud, Machine Learning and Data Science</b>
-</div> 
+  - 💡 &nbsp; I'm interested in all things data: <b> Big Data, Cloud, Machine Learning and Data Science. </b>
 </div>
 
 <div>
