@@ -22,8 +22,6 @@
     <img src="https://img.shields.io/badge/java%20-%23F7DF1E.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/scala%20-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
     <img src="https://img.shields.io/badge/rust%20-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/unity-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
