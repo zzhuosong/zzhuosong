@@ -16,18 +16,18 @@
 <div>
   <h3> 💻 Languages and Tools  I Use</h3>
   <p>
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c%23%20-%232AAFC7.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/java%20-%23F7DF1E.svg?&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/scala%20-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
-    <img src="https://img.shields.io/badge/rust%20-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
-    <img src="https://img.shields.io/badge/unity-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python%20-222222.svg?&style=for-the-badge&logo=python&logoColor=14354C"/>
+    <img src="https://img.shields.io/badge/c%23%20-222222.svg?&style=for-the-badge&logo=csharp&logoColor=2AAFC7"/>
+    <img src="https://img.shields.io/badge/c%20-222222.svg?&style=for-the-badge&logo=c&logoColor=00599C"/>
+    <img src="https://img.shields.io/badge/java%20-222222.svg?&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/scala%20-222222.svg?&style=for-the-badge&logo=scala&logoColor=DC322F"/>
+    <img src="https://img.shields.io/badge/rust%20-222222.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/unity-222222.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/git%20-222222.svg?&style=for-the-badge&logo=git&logoColor=F05033"/>
+    <img src="https://img.shields.io/badge/github%20-222222.svg?&style=for-the-badge&logo=github&logoColor=181717"/>
+    <img src="https://img.shields.io/badge/vscode%20-222222.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+    <img src="https://img.shields.io/badge/markdown-222222.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Neovim-222222.svg?&style=for-the-badge&logo=neovim&logoColor=57A143"/>
     <img src="https://img.shields.io/badge/-Jetbrains-222222?style=for-the-badge&logo=jetbrains&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-Homebrew-222222?style=for-the-badge&logo=homebrew&logoColor=FBB040"/>
   </p>
