@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   </p>
 </div> 
 
@@ -41,8 +42,10 @@
     <img src="https://img.shields.io/badge/-Spark-222222?style=flat&logo=apachespark&logoColor=E25A1C"/>
     <img src="https://img.shields.io/badge/-Flink-222222?style=flat&logo=apacheflink&logoColor=E6526F"/>
     <img src="https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+    <img src="https://img.shields.io/badge/-Pandas-222222?style=flat&logo=pandas&logoColor=150458"/>
+    <img src="https://img.shields.io/badge/-Kafka-222222?style=flat&logo=apachekafka&logoColor=231F20"/>
+    <img src="https://img.shields.io/badge/-Neo4j-222222?style=flat&logo=neo4j&logoColor=4581C3"/>
   </p>
-
 </div>
 
 
