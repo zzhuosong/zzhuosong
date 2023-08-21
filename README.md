@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Song Zhuo 👋 </h1>
+<h1 align="center">Hey there! I'm Song 👋 </h1>
 <h3 align="center">open source📜 | Cloud computing ☁️ |  DevOps 🆕 | Innovation and Automation 🤖 |Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3> 💻 Languages and Tools  I Use</h3>
   <p>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%23%20-%232AAFC7.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -31,6 +31,19 @@
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
   </p>
 </div> 
+
+<div>
+  <h3>Some of the technologies I have worked with</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624"/>
+    <img src="https://img.shields.io/badge/-Spring%20Boot-222222?style=flat&logo=springboot&logoColor=6DB33F"/>
+    <img src="https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/-Spark-222222?style=flat&logo=apachespark&logoColor=E25A1C"/>
+    <img src="https://img.shields.io/badge/-Flink-222222?style=flat&logo=apacheflink&logoColor=E6526F"/>
+    <img src="https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+  </p>
+
+</div>
 
 
 
