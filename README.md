@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white/>
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
   </p>
 </div> 
 
