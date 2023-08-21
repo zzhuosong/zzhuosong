@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/c%23-2AAFC7.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/unity-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/unity-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=white&labelcolor=black"/>
     <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
-    img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </p>
 </div> 
