@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%23%20-%232AAFC7.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/java%20-%23F7DF1E.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java%20-%23F7DF1E.svg?&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/scala%20-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
     <img src="https://img.shields.io/badge/rust%20-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/unity-%23FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
