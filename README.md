@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Song 👋 </h1>
-<h3 align="center">open source📜 | Cloud computing ☁️ |  DevOps 🆕 | Innovation and Automation 🤖 |Competitive Programmer  🚀</h3>
+<h3 align="center">Open source📜 | Cloud computing ☁️ |  DevOps 🆕 | Innovation and Automation 🤖 |Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 <div align="left"> 
