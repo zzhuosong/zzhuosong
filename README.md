@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
     <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Jetbrains-222222?style=for-the-badge&logo=jetbrains&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/-Homebrew-222222?style=for-the-badge&logo=homebrew&logoColor=FBB040"/>
   </p>
 </div> 
 
