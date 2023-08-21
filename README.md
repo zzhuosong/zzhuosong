@@ -36,15 +36,15 @@
 <div>
   <h3>Some of the technologies I have worked with</h3>
   <p>
-    <img src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624"/>
-    <img src="https://img.shields.io/badge/-Spring%20Boot-222222?style=flat&logo=springboot&logoColor=6DB33F"/>
-    <img src="https://img.shields.io/badge/-Flask-222222?style=flat&logo=flask&logoColor=000000"/>
-    <img src="https://img.shields.io/badge/-Spark-222222?style=flat&logo=apachespark&logoColor=E25A1C"/>
-    <img src="https://img.shields.io/badge/-Flink-222222?style=flat&logo=apacheflink&logoColor=E6526F"/>
-    <img src="https://img.shields.io/badge/-Pytorch-222222?style=flat&logo=pytorch&logoColor=EE4C2C"/>
-    <img src="https://img.shields.io/badge/-Pandas-222222?style=flat&logo=pandas&logoColor=150458"/>
-    <img src="https://img.shields.io/badge/-Kafka-222222?style=flat&logo=apachekafka&logoColor=231F20"/>
-    <img src="https://img.shields.io/badge/-Neo4j-222222?style=flat&logo=neo4j&logoColor=4581C3"/>
+    <img src="https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+    <img src="https://img.shields.io/badge/-Spring%20Boot-222222?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+    <img src="https://img.shields.io/badge/-Flask-222222?style=for-the-badge&logo=flask&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/-Spark-222222?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
+    <img src="https://img.shields.io/badge/-Flink-222222?style=for-the-badge&logo=apacheflink&logoColor=E6526F"/>
+    <img src="https://img.shields.io/badge/-Pytorch-222222?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+    <img src="https://img.shields.io/badge/-Pandas-222222?style=for-the-badge&logo=pandas&logoColor=150458"/>
+    <img src="https://img.shields.io/badge/-Kafka-222222?style=for-the-badge&logo=apachekafka&logoColor=231F20"/>
+    <img src="https://img.shields.io/badge/-Neo4j-222222?style=for-the-badge&logo=neo4j&logoColor=4581C3"/>
   </p>
 </div>
 
